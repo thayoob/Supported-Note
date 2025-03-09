@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your **React TypeScript** project **Supported-Note**:
-
-````md
 # Supported-Note
 
 A **React + TypeScript** markdown-supported note-taking application. 🚀
