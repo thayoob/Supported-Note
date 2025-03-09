@@ -56,6 +56,4 @@ This project is **MIT Licensed**.
 
 🚀 **Happy Coding!**
 
-```
 
-🔹 Replace `thayoob` with your GitHub username. Let me know if you need any modifications! 😊
