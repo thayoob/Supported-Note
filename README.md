@@ -23,7 +23,6 @@ A **React + TypeScript** markdown-supported note-taking application. 🚀
    git clone https://github.com/thayoob/Supported-Note.git
    cd Supported-Note
    ```
-````
 
 2. Install dependencies:
 
@@ -60,4 +59,3 @@ This project is **MIT Licensed**.
 ```
 
 🔹 Replace `thayoob` with your GitHub username. Let me know if you need any modifications! 😊
-```
